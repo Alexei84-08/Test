@@ -1,0 +1,11 @@
+*.iml
+*.jar
+*.war
+*.zip
+*.rar
+*.log
+*.tmp
+*.bak
+.idea/
+.git/
+target/

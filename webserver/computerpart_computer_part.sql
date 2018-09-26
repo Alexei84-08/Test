@@ -1,0 +1,23 @@
+
+UPDATE computerpart.computer_part SET name = 'computer case', quantity = 3, required = true WHERE id = 1;
+UPDATE computerpart.computer_part SET name = 'cable', quantity = 333, required = true WHERE id = 2;
+UPDATE computerpart.computer_part SET name = 'compact disc', quantity = 12, required = false WHERE id = 3;
+UPDATE computerpart.computer_part SET name = 'computer cooling', quantity = 56, required = true WHERE id = 4;
+UPDATE computerpart.computer_part SET name = 'USB flash drive', quantity = 75, required = false WHERE id = 5;
+UPDATE computerpart.computer_part SET name = 'keyboard', quantity = 55, required = true WHERE id = 6;
+UPDATE computerpart.computer_part SET name = 'modem', quantity = 40, required = false WHERE id = 7;
+UPDATE computerpart.computer_part SET name = 'monitor', quantity = 69, required = true WHERE id = 8;
+UPDATE computerpart.computer_part SET name = 'motherboard', quantity = 55, required = true WHERE id = 9;
+UPDATE computerpart.computer_part SET name = 'mouse', quantity = 99, required = true WHERE id = 10;
+UPDATE computerpart.computer_part SET name = 'mouse mat', quantity = 22, required = false WHERE id = 11;
+UPDATE computerpart.computer_part SET name = 'printer', quantity = 10, required = false WHERE id = 12;
+UPDATE computerpart.computer_part SET name = 'scanner', quantity = 12, required = false WHERE id = 13;
+UPDATE computerpart.computer_part SET name = 'speakers', quantity = 8, required = false WHERE id = 14;
+UPDATE computerpart.computer_part SET name = 'video card', quantity = 17, required = true WHERE id = 15;
+UPDATE computerpart.computer_part SET name = 'Projector', quantity = 2, required = false WHERE id = 16;
+UPDATE computerpart.computer_part SET name = 'Power strip', quantity = 43, required = true WHERE id = 17;
+UPDATE computerpart.computer_part SET name = 'central processing unit', quantity = 77, required = true WHERE id = 18;
+UPDATE computerpart.computer_part SET name = 'floppy disk drive', quantity = 2, required = false WHERE id = 19;
+UPDATE computerpart.computer_part SET name = 'headphones', quantity = 55, required = false WHERE id = 20;
+UPDATE computerpart.computer_part SET name = 'antivirus software', quantity = 5, required = false WHERE id = 21;
+UPDATE computerpart.computer_part SET name = 'application', quantity = 67, required = true WHERE id = 22;
